@@ -60,15 +60,15 @@ console.log(longString)*/
 
 var result = 50;
 
-if(result > 40) {
-    console.log('You passed the test')    
+if (result > 40) {
+    console.log('You passed the test')
 } else {
     console.log('Unfortunately you did not pass')
 }
 
 var place = "second";
 
-if(place == "first") {
+if (place == "first") {
     console.log("Gold")
 } else if (place == "second") {
     console.log("Silver")
