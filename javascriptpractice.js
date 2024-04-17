@@ -76,4 +76,4 @@ if(place == "first") {
     console.log("Bronze")
 } else {
     console.log("No medal")
-}
+} 
