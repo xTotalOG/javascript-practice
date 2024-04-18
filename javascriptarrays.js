@@ -41,3 +41,6 @@ var user = "Lisa";
 
 console.log(greet+user);
 console.log(greet.concat(user));
+
+var result = "Hello".indexOf('l');
+console.log(result)
