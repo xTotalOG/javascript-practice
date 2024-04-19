@@ -24,7 +24,7 @@ for (var i = 0; i < veggies.length; i++){
     console.log(veggies[i]);
 } 
 
-// strings are iterable as well
+// strings are iterable as well 
 var greeting = "Howdy";
 console.log(greeting.length);
 
